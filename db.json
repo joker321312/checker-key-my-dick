@@ -1,0 +1,217 @@
+{
+  "users": {
+    "joker": {
+      "hwid": "UNKNOWN-HWID",
+      "subscription": 1792023070.3047743,
+      "pc": "MSI",
+      "last_ip": "127.0.0.1",
+      "last_pc": "MSI",
+      "first_seen": "2026-10-14 18:11:39",
+      "last_seen": "2026-10-14 18:11:39"
+    }
+  },
+  "keys": {
+    "KEY-E3DAE06E370D3829": {
+      "duration_days": 365,
+      "status": "banned",
+      "used_by": null
+    },
+    "KEY-BB12AAED29189F92": {
+      "duration_days": 30,
+      "status": "banned",
+      "used_by": null
+    },
+    "KEY-E28CFF33E824FCC1": {
+      "duration_days": 7,
+      "status": "banned",
+      "used_by": null
+    },
+    "KEY-72052EFBC7CA96C8": {
+      "duration_days": 0.083,
+      "status": "used",
+      "used_by": "joker"
+    }
+  },
+  "sessions": [
+    {
+      "time": "2026-10-14 18:07:45",
+      "ts": 1792015665.6444855,
+      "username": "wwww",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:47",
+      "ts": 1792015667.077052,
+      "username": "wwww",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:47",
+      "ts": 1792015667.3139834,
+      "username": "wwww",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:47",
+      "ts": 1792015667.517098,
+      "username": "wwww",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:52",
+      "ts": 1792015672.58757,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:53",
+      "ts": 1792015673.0640152,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:54",
+      "ts": 1792015674.9095244,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:55",
+      "ts": 1792015675.147815,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:55",
+      "ts": 1792015675.5298562,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:55",
+      "ts": 1792015675.7521617,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:55",
+      "ts": 1792015675.9583611,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:56",
+      "ts": 1792015676.1960018,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:56",
+      "ts": 1792015676.3907766,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:56",
+      "ts": 1792015676.5964243,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:56",
+      "ts": 1792015676.8318994,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:57",
+      "ts": 1792015677.0540202,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:07:57",
+      "ts": 1792015677.2441673,
+      "username": "joker",
+      "key": "E28CFF33E824FCC1",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "invalid key"
+    },
+    {
+      "time": "2026-10-14 18:11:39",
+      "ts": 1792015899.1048093,
+      "username": "joker",
+      "key": "KEY-72052EFBC7CA96C8",
+      "hwid": "UNKNOWN-HWID",
+      "pc": "MSI",
+      "ip": "127.0.0.1",
+      "result": "first login (bound)"
+    }
+  ]
+}
